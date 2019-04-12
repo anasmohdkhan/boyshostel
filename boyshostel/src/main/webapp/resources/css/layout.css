@@ -1,0 +1,32 @@
+.bg-1 {
+	background-color: #1abc9c; /* Green */
+	color: #ffffff;
+}
+
+.bg-2 {
+	background-color: #474e5d; /* Dark Blue */
+	color: #ffffff;
+}
+
+.formWrap {
+	width: 400px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 30px;
+}
+
+.loginForm {
+	background: white;
+}
+
+.loginForm input {
+	margin-left: 30px;
+	height: 20px;
+	border: 1px solid #dfe1e5;
+	box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.loginForm input:hover {
+	border: 1px solid green;
+}
